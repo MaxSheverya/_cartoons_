@@ -5,7 +5,8 @@ body {
 }
 
 .contentainer {
-    padding: 99px 80px;
+    width: 1152px;
+    margin: 0 auto;
 }
 
 .mays-img {
@@ -28,6 +29,8 @@ body {
 .miki-mays-contentainer {
     display: flex;
     gap: 107px;
+    padding-top: 99px;
+    padding-bottom: 99px;
 }
 
 .mays-text {
@@ -76,6 +79,8 @@ body {
 .koko-contentainer {
     display: flex;
     gap: 107px;
+    padding-top: 113px;
+    padding-bottom: 112px;
 }
 
 .div {
@@ -89,6 +94,8 @@ body {
 .Wayana-contentainer {
     display: flex;
     gap: 107px;
+    padding-top: 113px;
+    padding-bottom: 112px;
 }
 
 .Wayana-img {
